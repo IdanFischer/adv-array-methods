@@ -16,3 +16,5 @@ const peopleMap = people.map( (element, index) => {
 })
 
 console.table(peopleMap)
+
+
